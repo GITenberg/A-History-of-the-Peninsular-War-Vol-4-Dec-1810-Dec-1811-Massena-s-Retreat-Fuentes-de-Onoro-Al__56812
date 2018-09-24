@@ -1,5 +1,8 @@
 _repo: A-History-of-the-Peninsular-War-Vol-4-Dec-1810-Dec-1811-Massena-s-Retreat-Fuentes-de-Onoro-Al__56812
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56812-h/images/cover_back.jpg
 creator:
   author:
     agent_name: Oman, Charles
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39035
     wikipedia: http://en.wikipedia.org/wiki/Charles_Oman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56812#A-History-of-the-Peninsular-War-Vol-4-Dec-1810-Dec-1811-Massena-s-Retreat-Fuentes-de-Onoro-Al_
 gutenberg_issued: '2018-03-22'
 gutenberg_type: Text
 identifiers:
